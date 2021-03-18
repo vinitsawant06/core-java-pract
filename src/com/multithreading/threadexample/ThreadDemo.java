@@ -5,6 +5,6 @@ public class ThreadDemo {
         ThreadClass threadClass = new ThreadClass();
         Thread thread = new Thread(threadClass);
         thread.start();
-        thread.start();
+
     }
 }
