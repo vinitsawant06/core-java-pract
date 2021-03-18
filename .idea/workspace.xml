@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bf19d2f-bcc4-4664-b4d2-63bc9d7293ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ffHjUL4HN8r0Mc0lATDarBtJXj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../XLSApp" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RunManager" selected="Application.ThreadDemo">
+    <configuration name="ABC (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Acce.ABC" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Acce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ABC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.accenture.ABC" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.accenture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.java8.Streams" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.threadexample.ThreadDemo" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.multithreading.threadexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimePass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.java8.TimePass" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.TimePass" />
+        <item itemvalue="Application.ABC (1)" />
+        <item itemvalue="Application.ABC" />
+        <item itemvalue="Application.Streams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\vinisawa\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bf19d2f-bcc4-4664-b4d2-63bc9d7293ae" name="Default Changelist" comment="" />
+      <created>1596602362074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596602362074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="21" key="#FactorialUsingRecursion" timestamp="1608539099429">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="21" key="#FactorialUsingRecursion/0.0.1280.680@0.0.1280.680" timestamp="1608539099429" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1613713697679">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1613713697679" />
+    <state x="421" y="17" key="FileChooserDialogImpl" timestamp="1610702936945">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="17" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1610702936945" />
+    <state width="1237" height="95" key="GridCell.Tab.0.bottom" timestamp="1615968946802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="95" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1615968946802" />
+    <state width="1237" height="95" key="GridCell.Tab.0.center" timestamp="1615968946802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="95" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1615968946802" />
+    <state width="1237" height="95" key="GridCell.Tab.0.left" timestamp="1615968946801">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="95" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1615968946801" />
+    <state width="1237" height="95" key="GridCell.Tab.0.right" timestamp="1615968946802">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="95" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1615968946802" />
+    <state width="1237" height="123" key="GridCell.Tab.1.bottom" timestamp="1608543738841">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1608543738841" />
+    <state width="1237" height="123" key="GridCell.Tab.1.center" timestamp="1608543738841">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1608543738841" />
+    <state width="1237" height="123" key="GridCell.Tab.1.left" timestamp="1608543738841">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1608543738841" />
+    <state width="1237" height="123" key="GridCell.Tab.1.right" timestamp="1608543738841">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="123" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1608543738841" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1610702296739">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1610702296739" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1616043646571">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1616043646571" />
+    <state x="91" y="0" key="new project wizard" timestamp="1614744236473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1614744236473" />
+    <state x="330" y="205" key="svn4idea.checkout.options" timestamp="1610702945562">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="330" y="205" key="svn4idea.checkout.options/0.0.1280.680@0.0.1280.680" timestamp="1610702945562" />
+  </component>
+</project>
